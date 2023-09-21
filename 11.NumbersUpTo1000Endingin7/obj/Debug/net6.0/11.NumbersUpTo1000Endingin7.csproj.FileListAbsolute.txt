@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\bin\Debug\net6.0\11.NumbersUpTo1000Endingin7.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\bin\Debug\net6.0\11.NumbersUpTo1000Endingin7.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\bin\Debug\net6.0\11.NumbersUpTo1000Endingin7.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\bin\Debug\net6.0\11.NumbersUpTo1000Endingin7.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\bin\Debug\net6.0\11.NumbersUpTo1000Endingin7.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\refint\11.NumbersUpTo1000Endingin7.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\11.NumbersUpTo1000Endingin7.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersUpTo1000Endingin7\obj\Debug\net6.0\ref\11.NumbersUpTo1000Endingin7.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\bin\Debug\net6.0\09.TheSmallestNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\refint\09.TheSmallestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\09.TheSmallestNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\09.TheSmallestNumber\obj\Debug\net6.0\ref\09.TheSmallestNumber.dll

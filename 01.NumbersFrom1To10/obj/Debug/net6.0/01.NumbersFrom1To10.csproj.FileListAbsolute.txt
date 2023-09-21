@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\bin\Debug\net6.0\01.NumbersFrom1To10.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\bin\Debug\net6.0\01.NumbersFrom1To10.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\bin\Debug\net6.0\01.NumbersFrom1To10.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\bin\Debug\net6.0\01.NumbersFrom1To10.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\bin\Debug\net6.0\01.NumbersFrom1To10.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\refint\01.NumbersFrom1To10.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\01.NumbersFrom1To10.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\01.NumbersFrom1To10\obj\Debug\net6.0\ref\01.NumbersFrom1To10.dll

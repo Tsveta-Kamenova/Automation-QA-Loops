@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\bin\Debug\net6.0\14.ExamPreparation.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\bin\Debug\net6.0\14.ExamPreparation.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\bin\Debug\net6.0\14.ExamPreparation.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\bin\Debug\net6.0\14.ExamPreparation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\bin\Debug\net6.0\14.ExamPreparation.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\refint\14.ExamPreparation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\14.ExamPreparation.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\14.ExamPreparation\obj\Debug\net6.0\ref\14.ExamPreparation.dll

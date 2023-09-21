@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\bin\Debug\net6.0\24.TrainТheTrainers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\bin\Debug\net6.0\24.TrainТheTrainers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\bin\Debug\net6.0\24.TrainТheTrainers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\bin\Debug\net6.0\24.TrainТheTrainers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\bin\Debug\net6.0\24.TrainТheTrainers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\refint\24.TrainТheTrainers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\24.TrainТheTrainers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\24.TrainТheTrainers\obj\Debug\net6.0\ref\24.TrainТheTrainers.dll

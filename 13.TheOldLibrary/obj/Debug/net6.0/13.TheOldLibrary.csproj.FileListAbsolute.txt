@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\bin\Debug\net6.0\13.TheOldLibrary.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\bin\Debug\net6.0\13.TheOldLibrary.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\bin\Debug\net6.0\13.TheOldLibrary.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\bin\Debug\net6.0\13.TheOldLibrary.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\bin\Debug\net6.0\13.TheOldLibrary.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\refint\13.TheOldLibrary.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\13.TheOldLibrary.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\Loops\13.TheOldLibrary\obj\Debug\net6.0\ref\13.TheOldLibrary.dll

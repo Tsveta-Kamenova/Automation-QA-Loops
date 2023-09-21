@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\bin\Debug\net6.0\21.NumberPyramid.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\bin\Debug\net6.0\21.NumberPyramid.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\bin\Debug\net6.0\21.NumberPyramid.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\bin\Debug\net6.0\21.NumberPyramid.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\bin\Debug\net6.0\21.NumberPyramid.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\refint\21.NumberPyramid.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\21.NumberPyramid.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\21.NumberPyramid\obj\Debug\net6.0\ref\21.NumberPyramid.dll

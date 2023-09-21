@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\bin\Debug\net6.0\02.NumbersFrom1ToNReversed.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\bin\Debug\net6.0\02.NumbersFrom1ToNReversed.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\bin\Debug\net6.0\02.NumbersFrom1ToNReversed.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\bin\Debug\net6.0\02.NumbersFrom1ToNReversed.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\bin\Debug\net6.0\02.NumbersFrom1ToNReversed.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\refint\02.NumbersFrom1ToNReversed.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\02.NumbersFrom1ToNReversed.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\02.NumbersFrom1ToNReversed\obj\Debug\net6.0\ref\02.NumbersFrom1ToNReversed.dll

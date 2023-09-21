@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\bin\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\bin\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\bin\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\bin\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\bin\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\refint\12.ElementThatEqualsToTheSumOfOthers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\12.ElementThatEqualsToTheSumOfOthers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\12.Half SumElement\obj\Debug\net6.0\ref\12.ElementThatEqualsToTheSumOfOthers.dll
