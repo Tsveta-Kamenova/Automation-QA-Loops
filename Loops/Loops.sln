@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.TrainТheTrainers", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stringReadin", "..\stringReadin\stringReadin.csproj", "{8E770566-659F-4D21-A218-9A20B70183CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.SpecialNumbers", "..\25.SpecialNumbers\25.SpecialNumbers.csproj", "{52F1CFE1-9D10-4CE1-98FF-6CEC7A74C9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.SpecialNumbers", "..\25.SpecialNumbers\25.SpecialNumbers.csproj", "{52F1CFE1-9D10-4CE1-98FF-6CEC7A74C9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.CinemaTickets", "..\26.CinemaTickets\26.CinemaTickets.csproj", "{D490015E-B0B4-4C6B-9732-3B922588F462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{52F1CFE1-9D10-4CE1-98FF-6CEC7A74C9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F1CFE1-9D10-4CE1-98FF-6CEC7A74C9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F1CFE1-9D10-4CE1-98FF-6CEC7A74C9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D490015E-B0B4-4C6B-9732-3B922588F462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D490015E-B0B4-4C6B-9732-3B922588F462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D490015E-B0B4-4C6B-9732-3B922588F462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D490015E-B0B4-4C6B-9732-3B922588F462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

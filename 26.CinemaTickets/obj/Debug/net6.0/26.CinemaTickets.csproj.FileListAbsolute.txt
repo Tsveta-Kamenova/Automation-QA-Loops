@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\bin\Debug\net6.0\26.CinemaTickets.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\bin\Debug\net6.0\26.CinemaTickets.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\bin\Debug\net6.0\26.CinemaTickets.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\bin\Debug\net6.0\26.CinemaTickets.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\bin\Debug\net6.0\26.CinemaTickets.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\refint\26.CinemaTickets.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\26.CinemaTickets.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\26.CinemaTickets\obj\Debug\net6.0\ref\26.CinemaTickets.dll
