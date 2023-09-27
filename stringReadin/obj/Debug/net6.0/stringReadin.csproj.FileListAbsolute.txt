@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\bin\Debug\net6.0\stringReadin.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\bin\Debug\net6.0\stringReadin.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\bin\Debug\net6.0\stringReadin.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\bin\Debug\net6.0\stringReadin.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\bin\Debug\net6.0\stringReadin.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\refint\stringReadin.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\stringReadin.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\stringReadin\obj\Debug\net6.0\ref\stringReadin.dll
