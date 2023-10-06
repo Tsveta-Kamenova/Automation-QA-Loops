@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\bin\Debug\net6.0\46.NumberProcessor.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\bin\Debug\net6.0\46.NumberProcessor.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\bin\Debug\net6.0\46.NumberProcessor.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\bin\Debug\net6.0\46.NumberProcessor.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\bin\Debug\net6.0\46.NumberProcessor.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\refint\46.NumberProcessor.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\46.NumberProcessor.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\46.NumberProcessor\obj\Debug\net6.0\ref\46.NumberProcessor.dll

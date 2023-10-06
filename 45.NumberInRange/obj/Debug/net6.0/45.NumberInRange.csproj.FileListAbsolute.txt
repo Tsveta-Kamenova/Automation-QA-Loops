@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\bin\Debug\net6.0\45.NumberInRange.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\bin\Debug\net6.0\45.NumberInRange.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\bin\Debug\net6.0\45.NumberInRange.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\bin\Debug\net6.0\45.NumberInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\bin\Debug\net6.0\45.NumberInRange.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\refint\45.NumberInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\45.NumberInRange.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\45.NumberInRange\obj\Debug\net6.0\ref\45.NumberInRange.dll

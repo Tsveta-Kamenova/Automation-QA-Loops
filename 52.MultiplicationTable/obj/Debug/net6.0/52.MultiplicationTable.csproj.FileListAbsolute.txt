@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\bin\Debug\net6.0\52.MultiplicationTable.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\bin\Debug\net6.0\52.MultiplicationTable.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\bin\Debug\net6.0\52.MultiplicationTable.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\bin\Debug\net6.0\52.MultiplicationTable.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\bin\Debug\net6.0\52.MultiplicationTable.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\refint\52.MultiplicationTable.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\52.MultiplicationTable.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\52.MultiplicationTable\obj\Debug\net6.0\ref\52.MultiplicationTable.dll

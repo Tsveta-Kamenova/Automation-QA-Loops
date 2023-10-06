@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\bin\Debug\net6.0\32.FirstNNumbersSum.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\bin\Debug\net6.0\32.FirstNNumbersSum.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\bin\Debug\net6.0\32.FirstNNumbersSum.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\bin\Debug\net6.0\32.FirstNNumbersSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\bin\Debug\net6.0\32.FirstNNumbersSum.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\refint\32.FirstNNumbersSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\32.FirstNNumbersSum.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\32.FirstNNumbersSum\obj\Debug\net6.0\ref\32.FirstNNumbersSum.dll

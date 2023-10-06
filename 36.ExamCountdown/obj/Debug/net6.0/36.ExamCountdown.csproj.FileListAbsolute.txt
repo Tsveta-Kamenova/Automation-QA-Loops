@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\bin\Debug\net6.0\36.ExamCountdown.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\bin\Debug\net6.0\36.ExamCountdown.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\bin\Debug\net6.0\36.ExamCountdown.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\bin\Debug\net6.0\36.ExamCountdown.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\bin\Debug\net6.0\36.ExamCountdown.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\refint\36.ExamCountdown.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\36.ExamCountdown.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\36.ExamCountdown\obj\Debug\net6.0\ref\36.ExamCountdown.dll

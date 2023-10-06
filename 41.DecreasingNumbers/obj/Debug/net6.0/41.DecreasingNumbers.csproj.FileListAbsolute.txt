@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\bin\Debug\net6.0\41.DecreasingNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\bin\Debug\net6.0\41.DecreasingNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\bin\Debug\net6.0\41.DecreasingNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\bin\Debug\net6.0\41.DecreasingNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\bin\Debug\net6.0\41.DecreasingNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\refint\41.DecreasingNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\41.DecreasingNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\41.DecreasingNumbers\obj\Debug\net6.0\ref\41.DecreasingNumbers.dll

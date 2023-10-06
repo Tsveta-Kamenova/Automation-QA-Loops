@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\bin\Debug\net6.0\42.OddNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\bin\Debug\net6.0\42.OddNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\bin\Debug\net6.0\42.OddNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\bin\Debug\net6.0\42.OddNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\bin\Debug\net6.0\42.OddNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\refint\42.OddNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\42.OddNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\42.OddNumber\obj\Debug\net6.0\ref\42.OddNumber.dll

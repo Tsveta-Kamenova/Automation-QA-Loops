@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\bin\Debug\net6.0\31.NumbersInRange.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\bin\Debug\net6.0\31.NumbersInRange.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\bin\Debug\net6.0\31.NumbersInRange.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\bin\Debug\net6.0\31.NumbersInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\bin\Debug\net6.0\31.NumbersInRange.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\refint\31.NumbersInRange.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\31.NumbersInRange.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\11.NumbersInRange\obj\Debug\net6.0\ref\31.NumbersInRange.dll

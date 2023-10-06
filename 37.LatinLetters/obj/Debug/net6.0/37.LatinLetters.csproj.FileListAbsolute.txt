@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\bin\Debug\net6.0\37.LatinLetters.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\bin\Debug\net6.0\37.LatinLetters.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\bin\Debug\net6.0\37.LatinLetters.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\bin\Debug\net6.0\37.LatinLetters.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\bin\Debug\net6.0\37.LatinLetters.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\refint\37.LatinLetters.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\37.LatinLetters.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\37.LatinLetters\obj\Debug\net6.0\ref\37.LatinLetters.dll

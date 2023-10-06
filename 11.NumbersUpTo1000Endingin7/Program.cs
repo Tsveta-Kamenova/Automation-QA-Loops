@@ -5,8 +5,9 @@
         static void Main(string[] args)
         {
             int currentNumber = 0;
+            int endNumber = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i <= 1000; i++)
+            for (int i = 6; i <= endNumber; i++)
             {
                 if (i % 10 == 7)
                 {

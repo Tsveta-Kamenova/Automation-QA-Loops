@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\bin\Debug\net6.0\44.SumDigits.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\bin\Debug\net6.0\44.SumDigits.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\bin\Debug\net6.0\44.SumDigits.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\bin\Debug\net6.0\44.SumDigits.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\bin\Debug\net6.0\44.SumDigits.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\refint\44.SumDigits.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\44.SumDigits.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\44.SumDigits\obj\Debug\net6.0\ref\44.SumDigits.dll

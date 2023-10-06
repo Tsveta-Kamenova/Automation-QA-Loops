@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\bin\Debug\net6.0\51.PowerOfNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\bin\Debug\net6.0\51.PowerOfNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\bin\Debug\net6.0\51.PowerOfNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\bin\Debug\net6.0\51.PowerOfNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\bin\Debug\net6.0\51.PowerOfNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\refint\51.PowerOfNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\51.PowerOfNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\51.PowerOfNumber\obj\Debug\net6.0\ref\51.PowerOfNumber.dll
