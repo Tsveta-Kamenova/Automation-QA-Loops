@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\bin\Debug\net6.0\56.SpecialNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\bin\Debug\net6.0\56.SpecialNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\bin\Debug\net6.0\56.SpecialNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\bin\Debug\net6.0\56.SpecialNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\bin\Debug\net6.0\56.SpecialNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\refint\56.SpecialNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\56.SpecialNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\56.SpecialNumber\obj\Debug\net6.0\ref\56.SpecialNumber.dll

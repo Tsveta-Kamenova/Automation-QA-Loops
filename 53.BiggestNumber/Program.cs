@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int countNumbers = int.Parse(Console.ReadLine());
+            int max = int.MinValue;
+
+            for (int i = 1; i <= countNumbers; i++)
+            {
+                int currentNumber = int.Parse(Console.ReadLine());
+
+                if (currentNumber > max)
+                {
+                    max = currentNumber;
+                }
+            }
+            Console.WriteLine($"{max}");
         }
     }
 }

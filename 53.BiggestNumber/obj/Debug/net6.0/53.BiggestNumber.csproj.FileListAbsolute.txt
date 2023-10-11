@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\bin\Debug\net6.0\53.BiggestNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\bin\Debug\net6.0\53.BiggestNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\bin\Debug\net6.0\53.BiggestNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\bin\Debug\net6.0\53.BiggestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\bin\Debug\net6.0\53.BiggestNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\refint\53.BiggestNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\53.BiggestNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\53.BiggestNumber\obj\Debug\net6.0\ref\53.BiggestNumber.dll

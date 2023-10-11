@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\bin\Debug\net6.0\55.DivisionTo23And4.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\bin\Debug\net6.0\55.DivisionTo23And4.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\bin\Debug\net6.0\55.DivisionTo23And4.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\bin\Debug\net6.0\55.DivisionTo23And4.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\bin\Debug\net6.0\55.DivisionTo23And4.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\refint\55.DivisionTo23And4.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\55.DivisionTo23And4.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\55.DivisionTo23And4\obj\Debug\net6.0\ref\55.DivisionTo23And4.dll

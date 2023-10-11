@@ -9,7 +9,7 @@
 
             for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine($"{numberToMultiply} * {i} = {numberToMultiply * i}");
+                Console.WriteLine($"{numberToMultiply} x {i} = {numberToMultiply * i}");
             }
         }
     }

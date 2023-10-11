@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\bin\Debug\net6.0\54.VowelSum.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\bin\Debug\net6.0\54.VowelSum.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\bin\Debug\net6.0\54.VowelSum.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\bin\Debug\net6.0\54.VowelSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\bin\Debug\net6.0\54.VowelSum.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\refint\54.VowelSum.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\54.VowelSum.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\54.VowelSum\obj\Debug\net6.0\ref\54.VowelSum.dll

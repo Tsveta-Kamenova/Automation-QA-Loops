@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\bin\Debug\net6.0\57.SpecialBonus.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\bin\Debug\net6.0\57.SpecialBonus.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\bin\Debug\net6.0\57.SpecialBonus.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\bin\Debug\net6.0\57.SpecialBonus.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\bin\Debug\net6.0\57.SpecialBonus.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\refint\57.SpecialBonus.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\57.SpecialBonus.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\57.SpecialBonus\obj\Debug\net6.0\ref\57.SpecialBonus.dll

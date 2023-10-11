@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\bin\Debug\net6.0\63.TriangleOfStars.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\bin\Debug\net6.0\63.TriangleOfStars.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\bin\Debug\net6.0\63.TriangleOfStars.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\bin\Debug\net6.0\63.TriangleOfStars.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\bin\Debug\net6.0\63.TriangleOfStars.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\refint\63.TriangleOfStars.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\63.TriangleOfStars.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\63.TriangleOfStars\obj\Debug\net6.0\ref\63.TriangleOfStars.dll
