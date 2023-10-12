@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\bin\Debug\net6.0\67.SumOfDigitsCalculator.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\bin\Debug\net6.0\67.SumOfDigitsCalculator.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\bin\Debug\net6.0\67.SumOfDigitsCalculator.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\bin\Debug\net6.0\67.SumOfDigitsCalculator.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\bin\Debug\net6.0\67.SumOfDigitsCalculator.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\refint\67.SumOfDigitsCalculator.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\67.SumOfDigitsCalculator.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\67.SumOfDigitsCalculator\obj\Debug\net6.0\ref\67.SumOfDigitsCalculator.dll

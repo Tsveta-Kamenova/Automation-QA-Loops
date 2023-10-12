@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\bin\Debug\net6.0\68.PrimeNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\bin\Debug\net6.0\68.PrimeNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\bin\Debug\net6.0\68.PrimeNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\bin\Debug\net6.0\68.PrimeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\bin\Debug\net6.0\68.PrimeNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\refint\68.PrimeNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\68.PrimeNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\68.PrimeNumbers\obj\Debug\net6.0\ref\68.PrimeNumbers.dll
