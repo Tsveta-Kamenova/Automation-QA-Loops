@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\bin\Debug\net6.0\75.HappyNumbers.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\bin\Debug\net6.0\75.HappyNumbers.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\bin\Debug\net6.0\75.HappyNumbers.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\bin\Debug\net6.0\75.HappyNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\bin\Debug\net6.0\75.HappyNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\refint\75.HappyNumbers.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\75.HappyNumbers.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\75.HappyNumbers\obj\Debug\net6.0\ref\75.HappyNumbers.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\bin\Debug\net6.0\74.LetterCombinations.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\bin\Debug\net6.0\74.LetterCombinations.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\bin\Debug\net6.0\74.LetterCombinations.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\bin\Debug\net6.0\74.LetterCombinations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\bin\Debug\net6.0\74.LetterCombinations.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\refint\74.LetterCombinations.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\74.LetterCombinations.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\74.LetterCombinations\obj\Debug\net6.0\ref\74.LetterCombinations.dll

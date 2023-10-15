@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\bin\Debug\net6.0\77.FactorialDivision.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\bin\Debug\net6.0\77.FactorialDivision.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\bin\Debug\net6.0\77.FactorialDivision.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\bin\Debug\net6.0\77.FactorialDivision.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\bin\Debug\net6.0\77.FactorialDivision.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\refint\77.FactorialDivision.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\77.FactorialDivision.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\06_Loops\77.FactorialDivision\obj\Debug\net6.0\ref\77.FactorialDivision.dll
