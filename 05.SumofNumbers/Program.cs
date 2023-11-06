@@ -4,15 +4,17 @@
     {
         static void Main(string[] args)
         {
-            int targetSum = int.Parse(Console.ReadLine());
-            int currentSum = 0;
+            int countStudents = int.Parse(Console.ReadLine() ?? "1");
 
-            while  (currentSum < targetSum)
+            double sumGrades = 0.0;
+
+            for (int i = 0; i < countStudents; i++)
             {
-                int currentNumber = int.Parse(Console.ReadLine());
-                currentSum += currentNumber;
+                double currentGrade = double.Parse(Console.ReadLine() ?? "1");
+                sumGrades += currentGrade;
             }
-            Console.WriteLine(currentSum);
+            double averageGrade = sumGrades / countStudents;
+            Console.WriteLine($"{averageGrade:2F}");
         }
     }
 }
